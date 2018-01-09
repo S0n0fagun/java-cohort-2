@@ -1,0 +1,21 @@
+.navLink {
+  text-decoration: none;
+  border: solid;
+  border-radius: 5px;
+  padding: 10px;
+  position: relative;
+  top: 10px;
+  color: #8fabd8;
+  border-color: skyblue;
+  background-color: black;
+}
+
+.navLink:hover {
+  background-color: lightgrey;
+  padding: 15px;
+}
+
+#linkedInLink {
+  text-decoration: none;
+  color: red;
+}
