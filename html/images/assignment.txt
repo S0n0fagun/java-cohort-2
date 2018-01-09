@@ -1,0 +1,14 @@
+Create a new folder in your projects folder called: me
+
+Create 3 html pages.
+ - Home.html
+ - Hobbies.html
+ - Family.html
+
+Add anchor links so that you can get to any page from any page.
+
+Add images on each page.
+
+Add links to social media profiles on the home page.
+
+Add paragraphs on each page to describe you, your hobbies, and your family.
