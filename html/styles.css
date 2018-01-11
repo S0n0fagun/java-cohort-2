@@ -10,6 +10,11 @@
   background-color: black;
 }
 
+#myList li img {
+  border: solid;
+  border-radius: 100%
+}
+
 .navLink:hover {
   background-color: lightgrey;
   padding: 15px;
