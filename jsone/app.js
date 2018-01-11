@@ -1,3 +1,9 @@
+/*Write a function that takes two parameters, firstName
+and lastName. The function should return a full name, with a
+space in between the first and last name.
+*/
+
+
 let names = [
   "bob", "sam", "tim", "sally", "timothy"
 ];
