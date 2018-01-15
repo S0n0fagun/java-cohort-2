@@ -1,0 +1,14 @@
+{
+  "name": "servertest",
+  "version": "1.0.0",
+  "description": "Learning NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
